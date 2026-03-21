@@ -1,0 +1,197 @@
+baseURL = "https://3dprintcereal.co/"
+languageCode = "en-us"
+title = "3D Print Cereal"
+theme = "printwire"
+
+[params]
+tagline       = "3D printed cereal and grain-based foods — custom breakfast shapes, nutritional fortification, and personalised food structures."
+description   = "3D Print Cereal covers additive manufacturing of grain-based foods — from extruded cereal shapes to nutritionally optimised breakfast products and novel food textures."
+keywords      = "3D print cereal, grain food printing, breakfast food AM, cereal extrusion, food additive manufacturing, personalised nutrition"
+logoEmoji     = "🌾"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#ff2d87"
+colorPrimaryDark  = "#d4206e"
+colorPrimaryLight = "#ff5aa8"
+colorBgDark       = "#0f0810"
+colorBgSection    = "#130b14"
+colorBgCard       = "#1a1020"
+colorBgCardHover  = "#221528"
+colorBorder       = "rgba(255,45,135,0.22)"
+colorBorderLight  = "rgba(255,45,135,0.10)"
+
+fontPrimary   = "Outfit"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80",
+  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80",
+]
+
+heroEyebrow  = "Food Additive Manufacturing"
+heroTitle    = "3D Print <em>Cereal</em>"
+heroSubtitle = "3D printed cereal and grain-based foods — custom breakfast shapes, nutritional fortification, and personalised food structures."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+overviewLabel   = "Grain Platform"
+overviewTitle   = "The Future of Breakfast"
+overviewText    = "Custom shapes, personalised nutrition, zero food waste. 3D printed cereal is where food science meets additive manufacturing."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "3D Print Cereal Services"
+servicesSubtitle = "3D printed cereal and grain-based foods — custom breakfast shapes, nutritional fortification, and personalised food structures."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "3D printed cereal and grain-based foods — custom breakfast shapes, nutritional fortification, and personalised food structures."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 50
+suffix = "B+"
+label  = "Global Cereal Market (USD)"
+
+[[params.stats]]
+count  = 30
+suffix = "%"
+label  = "Waste Reduction Possible"
+
+[[params.stats]]
+count  = 99
+suffix = "%"
+label  = "Food-Safe Materials"
+
+[[params.stats]]
+count  = 5
+suffix = "x"
+label  = "More Nutritional Customisation"
+
+
+[[params.applications]]
+title       = "Custom Shape Production"
+description = "Novel cereal geometries that improve texture, crunch, and milk absorption — engineered for sensory performance."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Personalised Nutrition"
+description = "Fortified cereal with precise macro and micronutrient targeting per portion."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Children's Food Products"
+description = "Engaging shapes and characters printed in nutritious grain-based materials."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Food R&D Prototyping"
+description = "Rapid prototyping of new cereal concepts for product development teams."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🌾"
+title       = "Cereal Shape Design"
+description = "Custom extruded grain shapes for novel cereal products — any geometry from loops to complex lattices."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Nutritional Fortification"
+description = "Precisely dosed vitamins, minerals, and protein added to grain paste before printing."
+
+[[params.servicesPreview]]
+icon        = "⬡"
+title       = "Food Texture Engineering"
+description = "Internal structure design to control crunchiness, milk absorption rate, and mouthfeel."
+
+[[params.servicesPreview]]
+icon        = "🧪"
+title       = "Food Product R&D"
+description = "Concept-to-prototype development for food manufacturers exploring additive manufacturing."
+
+
+[[params.services]]
+name        = "Cereal Shape Design"
+description = "Custom extruded grain shapes for novel cereal products — any geometry from loops to complex lattices."
+icon        = "🌾"
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+
+[[params.services]]
+name        = "Nutritional Fortification"
+description = "Precisely dosed vitamins, minerals, and protein added to grain paste before printing."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+
+[[params.services]]
+name        = "Food Texture Engineering"
+description = "Internal structure design to control crunchiness, milk absorption rate, and mouthfeel."
+icon        = "⬡"
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+
+[[params.services]]
+name        = "Food Product R&D"
+description = "Concept-to-prototype development for food manufacturers exploring additive manufacturing."
+icon        = "🧪"
+image       = "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food 3D printing flagship"
+
+[[params.clusterLinks]]
+name        = "3dprintceramic.com"
+url         = "https://3dprintceramic.com"
+description = "Ceramic additive manufacturing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing services"
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
